@@ -1,0 +1,15 @@
+[
+    {
+        "username": "adminqwe",
+        "password": "88ea39439e74fa27c09a4fc0bc8ebe6d00978392",
+        "firstname": "Jhon",
+        "lastname": "Liang",
+        "age": "17"
+    },
+    {
+        "title": "asd",
+        "description": "asd",
+        "authon": "adminqwe",
+        "datePosted": "2020-09-18 03:51:42am"
+    }
+]
